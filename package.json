@@ -1,5 +1,5 @@
 {
-  "name": "@deedee/jsdelivr-example",
+  "name": "@soleechoi/jsdelivr-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@deedee:registry": "https://npm.pkg.github.com"
+    "@soleechoi:registry": "https://npm.pkg.github.com"
   }
 }
